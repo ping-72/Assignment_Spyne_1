@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sypne-project",
+  "private_key_id": "52a995f65c94d48865262fcbd90cb0514641f55f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCRkZFJHwPrP9Z5\nD8sOTX6I11/PkfGcU3RGUehcPvs8hHeFbknJ3ME2G/3Bs3cv91NEEjqHSCmPd7bM\nL3MyvURYKY6met1SeNWBfRjpGrPFzs+mj4gtHfbzSc1AGjsepJeWzS/1FJq4Q2r6\nNgDvG9QMqGc8wtCYCa4oQqSRL23noRKdsG4CTW3Duc2Fhl9cAQkLdLesCj+F0yXl\nDfPNj+3W1WdtsYyANyaJngEf5lu5K1esN9iQ//wVsDcAA1LKXTaOxz1676ix0fj/\ncIpHLzHrw4WV5rXbBotZg2tvvPE55vWq6NjPas4r1+LNUok+PW+reCmSFC1g9SxX\nLg3rs90pAgMBAAECggEAGMRiKkU/JvMFHDLuMwBHY6P1Vr03lQfz9BTyimNi3qCR\nL2Ac6N4I95pame7dfAlCHwZU8/h4rcLKFMKMAJmIO9HSRgwIhQQvG2l76AlVhfXS\nib3JBxgekLVBWUM9RNDvQ8akfrfjPS+nT2wJy6T59q9eZU2mLQAUpB/2nQcrVWnm\nLkhvGYjQkbfEl/5Kb4ehxA+KI1BWUUqjuRKHcYQ5Jtbzqo6wconJ8z/Ma0R8X+9Y\nhD+hN+PlQPxw+z3KlxYRtgOt1C0cRko4I6/ZRKajvJ/mhR/iCaRIcIoZhO6RphcN\nLfpOtpccOzoYZ/DzYKf8QYsHHu06ELQS+hQSWpiVQwKBgQDCod2JIrW4wH9BJRQP\nEPyIzqhfDIm7EeLNXXYVYubMLGlY3HPSKk9fO78HhJC19+9VkUkpyRLVvHfTGKUQ\ngIpO3UwApal3yud71dnyvaXm76RwKczhawdhGRUzNmZlkuaiU7sY7fLbRTN4/mES\nCJWadIEmYofUoOFTXDiZ33sD3wKBgQC/d24qc0C8y3o6d0Uh+miJSk1nSRYc2WTZ\nVYa09r0i1czN6mpqrOnA1DgVw5VMBd02lh/5w2mSGJNpELXchAJAF+/NVoJ1YNxc\nCQtw2hyWIkClVnbyPLkJPcQ1sqNLV3ThVsEX8NrY3p9HbVClDjRRkcJ6uIXWjbnh\nT49nYdj/9wKBgD/4O3vrMJb8jda3fRRGnPnKEoTK9inKAyVEZp841mqc3jMaoead\niWDfnjW2WGm2h680BTv6nnopa6iyHO6DkPHCwkwkJsL8qYCGFRA3TOPON9m1o2Uj\nbFV5jQI8CwOveKY5pvDWpE91Oym1Ueo/cAxH5nrbP5GfHu/rC59nWGM5AoGBAJ+F\n1yDBM9/YvHa35r6fjrdMU99JMoZIzlCRhJGDviOm9GNf+tf0RzGk3zGq6doUTLHt\nNKj5Gh1iInd4N72JswJJrz9q43j+gbqgwop8/zJLSYc32hSLaTN85dxDgPAF5tjU\nWj8jKoNkQFrXhkhu5EJN6jYrRT90h7lkezuMd6sTAoGAJqFz9jjFOP7AtIlRxt5C\nsLH2uC6jiHA7jQ00hFwG5P/m52F+PFRG4IoNSV/0fUiIHUxhKGwVDfUG0y7J6vyQ\nKov8npEDALE2oiZZN3pwjb6Joe69mHHNPkQpyL08Sk5LekET66zPoiMte/Jf7zZI\nvD2hq6IVjrNhnJgDTgK7V0s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "drive-service-account@sypne-project.iam.gserviceaccount.com",
+  "client_id": "114314036227389905121",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/drive-service-account%40sypne-project.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
