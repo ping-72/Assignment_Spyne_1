@@ -1,6 +1,6 @@
 # LLD
 
-![LLD](./LLD_Project.drawio.png)
+![LLD](./LLD_Project2.drawio.png)
 
 # Database Schema
 
