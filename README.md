@@ -1,6 +1,6 @@
 # LLD
 
-Add photo
+![LLD](./LLD_Project.drawio.png)
 
 # Database Schema
 
